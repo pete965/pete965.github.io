@@ -67,6 +67,11 @@ jobs:
           git commit -m "发布文章：${{ github.event.issue.title }}"
           git push
 
+      - name: Trigger Hugo deploy
+        run: gh workflow run hugo.yml
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Close issue with comment
         uses: actions/github-script@v7
         with:
