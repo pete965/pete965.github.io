@@ -1,6 +1,6 @@
 baseURL = 'https://pete965.github.io/'
 languageCode = 'zh-cn'
-title = 'Pete的博客'
+title = '皮特爱吃咖喱的博客'
 theme = 'hugo-theme-stack'
 defaultContentLanguage = 'zh-cn'
 
