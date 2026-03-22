@@ -1,0 +1,38 @@
+backend:
+  name: github
+  repo: pete965/pete965.github.io
+  branch: main
+  auth_type: pkce
+  app_id: Ov23liOhMTU5OSE5j8BZ
+
+media_folder: static/images
+public_folder: /images
+
+locale: zh_Hans
+
+collections:
+  - name: life
+    label: "生活"
+    folder: content/posts/life
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "标题", name: "title", widget: "string" }
+      - { label: "日期", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
+      - { label: "草稿", name: "draft", widget: "boolean", default: false }
+      - { label: "分类", name: "categories", widget: "list", default: ["生活"] }
+      - { label: "标签", name: "tags", widget: "list" }
+      - { label: "正文", name: "body", widget: "markdown" }
+
+  - name: tech
+    label: "技术"
+    folder: content/posts/tech
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "标题", name: "title", widget: "string" }
+      - { label: "日期", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
+      - { label: "草稿", name: "draft", widget: "boolean", default: false }
+      - { label: "分类", name: "categories", widget: "list", default: ["技术"] }
+      - { label: "标签", name: "tags", widget: "list" }
+      - { label: "正文", name: "body", widget: "markdown" }
