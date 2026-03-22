@@ -1,0 +1,85 @@
+name: Issue to Blog Post
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  create-post:
+    if: github.event.label.name == 'blog-life' || github.event.label.name == 'blog-tech'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create blog post from issue
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          LABEL_NAME: ${{ github.event.label.name }}
+          ALL_LABELS: ${{ join(github.event.issue.labels.*.name, ',') }}
+        run: |
+          if [ "$LABEL_NAME" = "blog-life" ]; then
+            CATEGORY="life"
+            CATEGORY_CN="生活"
+          else
+            CATEGORY="tech"
+            CATEGORY_CN="技术"
+          fi
+
+          DATE=$(date +%Y-%m-%d)
+          FILE_PATH="content/posts/${CATEGORY}/issue-${ISSUE_NUMBER}.md"
+          ESCAPED_TITLE=$(echo "$ISSUE_TITLE" | sed 's/"/\\"/g')
+
+          # Build tags from other labels
+          TAGS=""
+          IFS=',' read -ra LABEL_ARRAY <<< "$ALL_LABELS"
+          for label in "${LABEL_ARRAY[@]}"; do
+            if [ "$label" != "blog-life" ] && [ "$label" != "blog-tech" ]; then
+              TAGS="${TAGS}  - ${label}"$'\n'
+            fi
+          done
+
+          {
+            echo "---"
+            echo "title: \"$ESCAPED_TITLE\""
+            echo "date: $DATE"
+            echo "draft: false"
+            echo "categories:"
+            echo "  - $CATEGORY_CN"
+            if [ -n "$TAGS" ]; then
+              echo "tags:"
+              printf '%s' "$TAGS"
+            fi
+            echo "---"
+            echo ""
+            echo "$ISSUE_BODY"
+          } > "$FILE_PATH"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/posts/
+          git commit -m "发布文章：${{ github.event.issue.title }}"
+          git push
+
+      - name: Close issue with comment
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: '文章已发布！等待部署完成后即可在博客上查看。'
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });

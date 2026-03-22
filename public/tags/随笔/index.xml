@@ -1,15 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>随笔 on Pete的博客</title>
-        <link>http://localhost:1313/tags/%E9%9A%8F%E7%AC%94/</link>
-        <description>Recent content in 随笔 on Pete的博客</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>随笔 - 开始记录生活</title>
-            <link>http://localhost:1313/posts/life/first-thought/</link>
-            <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/posts/life/first-thought/</guid>
-            <description>&lt;p&gt;从今天开始，用文字记录生活中的点滴感悟。&lt;/p&gt;&#xA;&lt;p&gt;写博客不仅是分享，更是一种自我对话的方式。&lt;/p&gt;&#xA;</description>
-        </item></channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>随笔 on Pete的博客</title><link>https://pete965.github.io/tags/%E9%9A%8F%E7%AC%94/</link><description>Recent content in 随笔 on Pete的博客</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://pete965.github.io/tags/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml"/><item><title>随笔 - 开始记录生活</title><link>https://pete965.github.io/posts/life/first-thought/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://pete965.github.io/posts/life/first-thought/</guid><description>&lt;p&gt;从今天开始，用文字记录生活中的点滴感悟。&lt;/p&gt;
+&lt;p&gt;写博客不仅是分享，更是一种自我对话的方式。&lt;/p&gt;</description></item></channel></rss>

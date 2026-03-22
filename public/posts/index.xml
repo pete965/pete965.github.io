@@ -1,21 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on Pete的博客</title>
-        <link>http://localhost:1313/posts/</link>
-        <description>Recent content in Posts on Pete的博客</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>Hello World - 我的第一篇技术博客</title>
-            <link>http://localhost:1313/posts/tech/hello-world/</link>
-            <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/posts/tech/hello-world/</guid>
-            <description>&lt;p&gt;这是我的第一篇技术博客文章。&lt;/p&gt;&#xA;&lt;h2 id=&#34;为什么搭建这个博客&#34;&gt;为什么搭建这个博客&#xA;&lt;/h2&gt;&lt;p&gt;记录技术学习过程，分享踩坑经验。&lt;/p&gt;&#xA;&lt;h2 id=&#34;技术栈&#34;&gt;技术栈&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;静态站点生成器&lt;/strong&gt;: Hugo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;主题&lt;/strong&gt;: Stack&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;托管&lt;/strong&gt;: GitHub Pages&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;欢迎访问！&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>随笔 - 开始记录生活</title>
-            <link>http://localhost:1313/posts/life/first-thought/</link>
-            <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/posts/life/first-thought/</guid>
-            <description>&lt;p&gt;从今天开始，用文字记录生活中的点滴感悟。&lt;/p&gt;&#xA;&lt;p&gt;写博客不仅是分享，更是一种自我对话的方式。&lt;/p&gt;&#xA;</description>
-        </item></channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Pete的博客</title><link>https://pete965.github.io/posts/</link><description>Recent content in Posts on Pete的博客</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://pete965.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>读《翦商》：当我发现商朝用人祭维持统治</title><link>https://pete965.github.io/posts/life/reading-erta-shang/</link><pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate><guid>https://pete965.github.io/posts/life/reading-erta-shang/</guid><description>&lt;h1 id="一引子一本书引发的惊奇"&gt;一、引子：一本书引发的惊奇&lt;/h1&gt;
+&lt;p&gt;我是从一本书开始想这些问题的。&lt;/p&gt;
+&lt;p&gt;这本书叫《翦商》，作者李硕，讲商朝如何被周朝终结。书名里的&amp;quot;翦&amp;quot;字，古汉语里是&amp;quot;剪灭、消除&amp;quot;的意思，&amp;ldquo;翦商&amp;quot;就是&amp;quot;剪灭商朝&amp;rdquo;。副标题是&amp;quot;殷周之变与华夏新生&amp;quot;，读起来像是一部严肃的上古史著作，但真正打开之后，第一感觉更像是惊悚。&lt;/p&gt;
+&lt;p&gt;让我震撼的不是战争，不是阴谋，而是一个我以前没有真正认真想过的事实：商朝祭祀时，用人。&lt;/p&gt;
+&lt;p&gt;这件事我在中学历史课上大概学过，但那时候只是一个知识点，像&amp;quot;商朝出现了青铜器&amp;quot;一样一带而过。《翦商》让我第一次认真看清楚这件事的规模和质地。&lt;/p&gt;
+&lt;p&gt;商朝的人祭不是偶发的，不是极端情况下的特例，而是&lt;strong&gt;制度性的、日常化的、大规模的&lt;/strong&gt;。甲骨文里有清楚的记录：这次祭祀用了多少人，用什么方式杀，祭哪位祖先。仅武丁时期（商朝最强盛的阶段），甲骨卜辞中记载的人祭次数超过一千次，涉及人数估计超过一万三千人。而考古发掘的殷墟，人祭坑超过两千个。整个商朝历史中被祭杀的人口，可能多达十几万。&lt;/p&gt;
+&lt;p&gt;这不是野蛮部落偶尔为之的血腥仪式。这是一个高度文明的青铜器时代国家，在国家运作的核心位置，系统性地、持续地杀人祭祀。&lt;/p&gt;
+&lt;p&gt;而那些被杀的人，绝大多数是战俘和异族——被称为&amp;quot;羌人&amp;quot;的西部族群是最常见的祭品，甲骨文里&amp;quot;羌&amp;quot;字出现的频率之高令人触目。考古发掘的祭祀坑里，尸骨整齐排列，有明显的刀砍痕迹，砍头、活埋、火烧、肢解……李硕在书里指出，今天汉字里有些字的原始含义，直接来自人祭现场。&amp;ldquo;卯&amp;quot;字，本义是将人从中间劈开。&amp;ldquo;燎&amp;quot;字，指火烧祭品。我们平时使用这些字，感觉不到那股血腥气，但它就在那里，封存在字形里，沉默了三千年。&lt;/p&gt;
+&lt;p&gt;读到这里，我脑子里浮现的第一个问题，不是&amp;quot;太残忍了&amp;rdquo;——那当然残忍，但那是情绪反应，不是真正的追问。&lt;/p&gt;
+&lt;p&gt;我真正想问的是：&lt;strong&gt;这套制度为什么能运转？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不是那些被杀的人为什么没能反抗——他们是战俘，被枷锁困住，没有选择。我想问的是：那些看着人被杀、主持仪式、维持这套制度正常运转的商朝人，那些贵族、祭司、普通国人，他们为什么觉得这是正常的？是理所当然的？是神圣的？&lt;/p&gt;
+&lt;p&gt;这个问题让我意识到，人祭不只是一个宗教现象，它背后有一套完整的政治逻辑。而理解这套逻辑，是理解商周之变真正意义的起点。&lt;/p&gt;
+&lt;h1 id="二人祭不只是宗教一套精密的统治装置"&gt;二、人祭不只是宗教——一套精密的统治装置&lt;/h1&gt;
+&lt;p&gt;要理解商朝的人祭，必须先放下&amp;quot;残忍&amp;quot;这个判断。&lt;/p&gt;
+&lt;p&gt;残忍是我们站在今天的道德坐标上做出的评价，它是准确的，但它遮蔽了一个更重要的问题：这套体系在它自己的逻辑里是怎么运转的？为什么一个高度发达的青铜器文明，会把大规模杀人作为国家制度的核心？&lt;/p&gt;
+&lt;p&gt;商朝的世界观，可以用一句话概括：&lt;strong&gt;祖先死后成为神灵，神灵掌控一切，取悦神灵是统治者最重要的职责。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这套神学，内部完全自洽。商王是最高祭司，是人间与祖先神灵之间唯一的沟通者。甲骨占卜是这套体系的核心仪式——商王通过灼烧甲骨，解读裂纹，获取祖先的旨意。战争打不打、农业怎么安排、祭祀用多少人——一切重大决策都要先问鬼神。权力的合法性，建立在一个清晰的命题上：&lt;strong&gt;我能和神说话，你不能。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;人祭，是这套神学逻辑的终极表达。既然祖先是最强大的神灵，既然取悦祖先是头等大事，那最贵重的祭品自然是最有价值的东西。在商朝人的价值体系里，人命比牛羊玉器都要珍贵，用人来祭祀，是最高规格的虔诚，不是残忍，而是庄严。&lt;/p&gt;
+&lt;p&gt;但如果只看到宗教层面，就低估了商朝统治者的精明。&lt;/p&gt;
+&lt;p&gt;人祭同时是一套功能极为完备的&lt;strong&gt;政治工具&lt;/strong&gt;，它在至少三个维度上服务于统治：&lt;/p&gt;
+&lt;p&gt;第一是&lt;strong&gt;权力展示&lt;/strong&gt;。大规模公开杀人，本身就是对权力边界的宣示——我能决定谁生谁死，且这是神圣的、合法的、不可质疑的。这种展示的震慑效果，远比任何言辞声明都更直接。&lt;/p&gt;
+&lt;p&gt;第二是&lt;strong&gt;族群边界的构建&lt;/strong&gt;。被祭杀的几乎全是异族战俘，尤其是被称为&amp;quot;羌人&amp;quot;的西部族群。这条规则，在无形中划定了一道清晰的生死边界：成为商朝的臣民，就能免于沦为祭品；异族则随时可能成为刀下之鬼。这种以死亡威胁构建的归属感，是一种极其有效的族群整合机制。&lt;/p&gt;
+&lt;p&gt;第三是&lt;strong&gt;战争驱动&lt;/strong&gt;。商朝频繁对外征战，教科书里通常把它解释为扩张领土、掠夺资源。但李硕在《翦商》里提出了一个更深层的动因：战争的核心目的之一，是持续获取人祭的原材料——战俘。这意味着商朝的军事机器和祭祀体系是深度绑定的，战争不只是政治扩张，同时也是宗教仪式的后勤补给。&lt;/p&gt;
+&lt;p&gt;把这三个维度放在一起，你会看到一台设计精良的统治机器：&lt;strong&gt;神圣性提供合法性，恐惧维持服从，战争持续供给体系运转所需的资源。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从纯粹的统治效率角度来看，这套体系在它鼎盛的时期，相当高效。不需要复杂的说理，不需要建立普遍适用的道德体系，只需要让所有人相信，商王掌握着与神灵的独家通道，违抗就意味着被祭祀、被消灭。简单、直接、有震慑力。&lt;/p&gt;
+&lt;p&gt;但这台机器有一个致命的结构性缺陷，藏在它最核心的运转逻辑里。&lt;/p&gt;
+&lt;p&gt;整套体系依赖持续的对外战争来获取祭祀人口。这意味着商朝的军事机器和祭祀体系是深度绑定的——战争胜利，体系运转；扩张停滞，人口供给紧张，体系就开始出现裂缝。这是一台&lt;strong&gt;必须不断加速才能维持运转的机器&lt;/strong&gt;，一旦减速，崩塌就会从内部开始。&lt;/p&gt;
+&lt;p&gt;连年征战带来了多重代价。其一，帝辛东征东夷，将商朝最精锐的主力困在东方战场，&lt;strong&gt;国内兵力严重空虚&lt;/strong&gt;，西线门户洞开。其二，帝辛锐意改革、打压旧贵族、重用外族人才，激起了贵族阶层强烈的反弹——比干被杀、箕子被囚、微子出走，统治集团内部已经分崩离析，部分贵族甚至暗中与周人勾连。其三，殷周之际气候大幅变冷变旱，农业收成本已受损，战争带来的社会动荡让局面雪上加霜。&lt;/p&gt;
+&lt;p&gt;还有一个因素，更难被量化，却可能更为致命：&lt;strong&gt;被统治者和周边族群对这套血祭体系发自内心的厌憎。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;商朝的统治边界之外，生活着大量臣服于商王却并非商族的方国和部落。他们需要定期朝贡，派遣子弟去参加商王的祭祀大典，有时亲眼目睹——甚至被迫参与——那些杀人的仪式。李硕在《翦商》里有一个令人窒息的推断：周族的先祖，很可能就是在这样的场合里，看着自己的族人或盟友被作为祭品杀死的。这种刻骨的恐惧与仇恨，不需要任何政治哲学来解释，它就是最原始的人性反应——我不想死在那个祭坛上，我的族人也不应该死在那里。&lt;/p&gt;
+&lt;p&gt;就是在这样的土壤里，周族完成了他们长达三代人的蛰伏。&lt;/p&gt;
+&lt;p&gt;从古公亶父迁居岐山默默积蓄实力，到周文王被商纣王囚于羑里七年忍辱负重，再到周武王继位后联合各路对商怀有怨恨的方国——这不是一次冲动的造反，而是一个横跨将近百年的精密谋划。周族的每一步都极度克制，因为他们知道，正面对抗商朝的军事主力，胜算渺茫。他们需要等待的，是一个商朝自己制造出来的窗口。&lt;/p&gt;
+&lt;p&gt;商朝晚期，帝辛倾国之力东征东夷。这场战争在军事上是胜利的，却把商朝最精锐的主力困在了遥远的东方战场，西边的防线随之空虚。&lt;/p&gt;
+&lt;p&gt;周武王没有错过这个窗口。&lt;/p&gt;
+&lt;h1 id="三周公的发明用秩序替代恐惧"&gt;三、周公的发明——用秩序替代恐惧&lt;/h1&gt;
+&lt;p&gt;牧野之战打了半个上午。但真正决定周朝能走多远的，是战争结束之后的事情。&lt;/p&gt;
+&lt;p&gt;灭商容易，治天下难。商朝的疆域广阔，殷商遗民数量庞大，各路方国各怀心思。武王入主朝歌之后仅仅两三年便去世，留下年幼的成王和一个尚未稳固的新王朝。&lt;/p&gt;
+&lt;p&gt;历史把这个难题，交给了周公姬旦。&lt;/p&gt;
+&lt;p&gt;周公是周武王的弟弟。武王死后，他以叔父之身摄政辅佐幼主，随即面临了一场差点让周朝二世而亡的危机：监视殷商遗民的三位宗室——管叔、蔡叔、霍叔——与商纣王之子武庚联合叛乱，同时东夷各国趁势响应。这场叛乱横跨今天从华北到东海的广大地区，是周朝立国以来最严峻的考验。&lt;/p&gt;
+&lt;p&gt;周公的应对分两步。第一步是平叛：亲率大军东征，历时近三年，击杀武庚，诛管叔，流放蔡叔，逐一平定东方。第二步，才是真正改变历史的那一步：&lt;strong&gt;制礼作乐&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;关于&amp;quot;制礼作乐&amp;quot;这件事，最早的文献记录见于《左传·文公十八年》，季文子说：&amp;ldquo;先君周公制礼作乐。&amp;quot;《史记·周本纪》也有记载：周公&amp;quot;兴正礼乐，度制于是改，而民和睦，颂声兴。&amp;ldquo;这是历史上可以确认的事实。&lt;/p&gt;
+&lt;p&gt;但周公究竟&amp;quot;制&amp;quot;了什么？&lt;/p&gt;
+&lt;p&gt;考古出土的器物，提供了一条有趣的线索。商朝墓葬中，大量的酒器是标准配置——酒是祭祀的核心用品，用于向鬼神献祭。而在西周出土的器物中，酒器几乎销声匿迹。代替它们的，是编钟、鼎、簋这类礼乐器具，以及记载&amp;quot;册命典礼&amp;quot;的青铜铭文。器物的变化，是制度变化的物质证据：商朝那套以鬼神为核心的祭祀体系，在周代已经系统性地退场了。&lt;/p&gt;
+&lt;p&gt;周公做的，是在保留祭祀形式的同时，彻底改造了祭祀的内涵。&lt;/p&gt;
+&lt;p&gt;他没有废除祭祀——那会引发强烈的文化抵抗。他做的，是把祭祀的神圣性，从&amp;quot;取悦鬼神&amp;quot;转移到&amp;quot;维护人伦秩序&amp;rdquo;。祭祀祖先，不再首先是为了让祖先保佑你打赢战争，而是彰显孝道、确认血脉、巩固宗族的等级关系。&lt;/p&gt;
+&lt;p&gt;与此同时，一套严密的等级仪礼体系被建立起来。天子用九鼎，诸侯用七鼎，大夫用五鼎。天子用八佾之舞，诸侯只能用六佾。每一个等级，有专属的器物、音乐、仪式、服装。政治秩序被翻译成了日常生活的每一个细节——吃饭怎么摆，站哪里，见了上级行什么礼，婚丧怎么办。&lt;/p&gt;
+&lt;p&gt;这套设计的政治逻辑极为精妙：&lt;strong&gt;当人们每天都在无数细节中重复演练权力秩序，这个秩序就会内化为直觉，变成&amp;quot;理所当然&amp;rdquo;。&lt;/strong&gt; 不需要每次都用杀人来提醒，因为身体已经记住了。&lt;/p&gt;
+&lt;p&gt;这是统治方式的一次根本性转变。商朝靠的是恐惧——我能杀你，且这是神圣的。周朝靠的是秩序的内化——你从小就知道自己在哪个位置，应该怎么做，这是天经地义的。&lt;/p&gt;
+&lt;p&gt;更深刻的，是周公同时完成的一次意识形态革命。&lt;/p&gt;
+&lt;p&gt;商朝的统治合法性来自神授：&amp;ldquo;我是祖先神灵的代理人，我能和神说话，你不能。&amp;ldquo;这是一种&lt;strong&gt;排他性的垄断&lt;/strong&gt;——只有商王才能拥有，无法分享，也无法转移。&lt;/p&gt;
+&lt;p&gt;周公提出的逻辑截然不同：天命不是固定的，而是有条件的。&amp;ldquo;皇天无亲，惟德是辅&amp;rdquo;——上天不偏袒任何人，只支持有德行的统治者。失德则失天命，有德则得天命。&lt;/p&gt;
+&lt;p&gt;这个转变看起来只是换了个说法，但它的政治含义是革命性的。第一，合法性第一次变成了&lt;strong&gt;可评估的&lt;/strong&gt;——统治者必须表现良好。第二，它内置了一个颠覆逻辑：任何成功的挑战者，都可以事后宣称自己更有德、天命已转移。周朝用这个逻辑证明了自己灭商的正当性，而此后三千年每一个改朝换代的王朝，都在沿用同一套叙事。&lt;/p&gt;
+&lt;p&gt;孔子后来说&amp;quot;周监于二代，郁郁乎文哉，吾从周&amp;rdquo;。他倾慕的，正是周公建立的这套人文秩序——一个不再靠血祭维系、而靠礼乐与道德凝聚的文明形态。&lt;/p&gt;
+&lt;p&gt;从商朝的祭坛，到周公的礼堂，这中间跨越的不只是时间，而是人类处理权力与秩序的方式，发生了一次根本性的转变。&lt;/p&gt;
+&lt;h1 id="四礼崩乐坏一套秩序的慢速死亡"&gt;四、礼崩乐坏——一套秩序的慢速死亡&lt;/h1&gt;
+&lt;p&gt;周公建立的这套秩序，运转了将近三百年。&lt;/p&gt;
+&lt;p&gt;然后，它开始从内部崩解。&lt;/p&gt;
+&lt;p&gt;崩解的根源，藏在分封制本身的逻辑里。周天子把土地和人口分封给诸侯，诸侯在封地上经营数代，人口增长，财富积累，军队壮大。与此同时，周天子能直接控制的王畿土地有限，无法以同样的速度扩张。这是一个不可逆的权力稀释过程——天子和诸侯之间的实力差距，在三百年里被一点一点抹平。&lt;/p&gt;
+&lt;p&gt;礼乐制度能在实力相对均衡时维持秩序，但它没有内置一套强制机制。它依赖的是所有人对规则的自愿遵守，而自愿遵守的前提，是背后有真实的权威支撑。一旦这个支撑塌陷，礼乐就从制度变成了装饰。&lt;/p&gt;
+&lt;p&gt;公元前771年，犬戎攻破镐京，周幽王被杀，西周灭亡。周平王被迫东迁洛邑，史称东周。东迁本身就是一次宣告：周天子需要诸侯护送才能搬家，失去了关中的根基之地，从此在经济和军事上全面依赖诸侯。&lt;/p&gt;
+&lt;p&gt;《史记·周本纪》记载，平王东迁后，&amp;ldquo;周室衰微，诸侯强并弱，齐、楚、秦、晋始大，政由方伯&amp;rdquo;。原本&amp;quot;礼乐征伐自天子出&amp;quot;的格局，演变成&amp;quot;礼乐征伐自诸侯出&amp;rdquo;，再演变成&amp;quot;自大夫出&amp;rdquo;，甚至&amp;quot;陪臣执国命&amp;quot;。这是礼崩乐坏的四个阶段，《史记》用这几句话，把权威滑落的轨迹说得极为清楚。&lt;/p&gt;
+&lt;p&gt;孔子生活的时代，正是这个滑落过程的中段。&lt;/p&gt;
+&lt;p&gt;他留下了一个具体的愤怒时刻：鲁国的权臣季氏，在自己的庭院里使用了八佾之舞——按礼制，六十四人规模的舞蹈队形，是只有天子才能使用的规格。孔子听说后，说了一句话，记载于《论语·八佾》：&amp;ldquo;八佾舞于庭，是可忍也，孰不可忍也！&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;这句话后来被误读为&amp;quot;这太过分了&amp;quot;。但孔子的原意是政治性的愤怒：连这种公然僭越都没有人追责，礼乐的边界已经彻底失效了，这个社会的秩序基础已经动摇到了无可救药的地步。&lt;/p&gt;
+&lt;p&gt;司马迁在《史记·太史公自序》里，借孔子之口描述了那个时代的真实面貌：&amp;ldquo;春秋之中，弑君三十六，亡国五十二，诸侯奔走不得保其社稷者不可胜数。&amp;ldquo;三十六次弑君，五十二个诸侯国被灭——这不是道德说教，这是周公建立的那套秩序正在现实中被逐条撕碎的记录。&lt;/p&gt;
+&lt;p&gt;孔子的回应，是用一生去抵抗这个过程。&lt;/p&gt;
+&lt;p&gt;他周游列国十四年，到处推销恢复周礼的主张，屡屡碰壁。诸侯们不是不懂礼乐的道理，他们只是明白：在一个所有人都在破坏规则的时代，单独守规则就是吃亏。礼乐秩序的维持需要所有人同时遵守，但只要有一个人率先破坏，其他人就会跟进——这是一个无解的集体行动困境，周公的制度设计里没有预见这种情况的解法。&lt;/p&gt;
+&lt;p&gt;孔子的失败是真实的，但他的失败催生了一件更大的事。&lt;/p&gt;
+&lt;p&gt;当旧的答案失效，所有人都开始重新追问：社会秩序从哪里来？人性是善还是恶？权力凭什么是合法的？怎样才算好的统治？&lt;/p&gt;</description></item><item><title>Hello World - 我的第一篇技术博客</title><link>https://pete965.github.io/posts/tech/hello-world/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://pete965.github.io/posts/tech/hello-world/</guid><description>&lt;p&gt;这是我的第一篇技术博客文章。&lt;/p&gt;
+&lt;h2 id="为什么搭建这个博客"&gt;为什么搭建这个博客&lt;/h2&gt;
+&lt;p&gt;记录技术学习过程，分享踩坑经验。&lt;/p&gt;
+&lt;h2 id="技术栈"&gt;技术栈&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;静态站点生成器&lt;/strong&gt;: Hugo&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;主题&lt;/strong&gt;: Stack&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;托管&lt;/strong&gt;: GitHub Pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;欢迎访问！&lt;/p&gt;</description></item><item><title>随笔 - 开始记录生活</title><link>https://pete965.github.io/posts/life/first-thought/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://pete965.github.io/posts/life/first-thought/</guid><description>&lt;p&gt;从今天开始，用文字记录生活中的点滴感悟。&lt;/p&gt;
+&lt;p&gt;写博客不仅是分享，更是一种自我对话的方式。&lt;/p&gt;</description></item></channel></rss>
