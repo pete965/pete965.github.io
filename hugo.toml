@@ -64,6 +64,10 @@ defaultContentLanguage = 'zh-cn'
 [pagination]
   pagerSize = 10
 
+[params.widgets]
+  [[params.widgets.page]]
+    type = 'toc'
+
 [markup.highlight]
   lineNos = true
   style = 'monokai'
