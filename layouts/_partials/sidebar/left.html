@@ -28,31 +28,6 @@
             <h2 class="site-description">{{ .Site.Params.sidebar.subtitle }}</h2>
         </div>
 
-        <div class="site-stats" id="busuanzi_container_site_pv" style="display:none;">
-            <span class="site-stats-item">
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-eye" width="16" height="16"
-                    viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round"
-                    stroke-linejoin="round">
-                    <path stroke="none" d="M0 0h24v24H0z" />
-                    <circle cx="12" cy="12" r="2" />
-                    <path d="M22 12c-2.667 4.667 -6 7 -10 7s-7.333 -2.333 -10 -7c2.667 -4.667 6 -7 10 -7s7.333 2.333 10 7" />
-                </svg>
-                <span id="busuanzi_value_site_pv"></span>
-            </span>
-            <span class="site-stats-sep">·</span>
-            <span class="site-stats-item">
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-users" width="16" height="16"
-                    viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round"
-                    stroke-linejoin="round">
-                    <path stroke="none" d="M0 0h24v24H0z" />
-                    <circle cx="9" cy="7" r="4" />
-                    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
-                    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
-                    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85" />
-                </svg>
-                <span id="busuanzi_value_site_uv"></span>
-            </span>
-        </div>
     </header>
 
     {{- with .Site.Menus.social -}}
@@ -88,6 +63,9 @@
             </a>
         </li>
         {{ end }}
+        <li id="site-stats" style="display:none;">
+            <span class="site-stats-text">至今<span id="busuanzi_value_site_pv"></span>次浏览，<span id="busuanzi_value_site_uv"></span>个访客</span>
+        </li>
         <li class="menu-bottom-section">
             <ol class="menu">
                 {{- $currentLanguageCode := .Language.Lang -}}

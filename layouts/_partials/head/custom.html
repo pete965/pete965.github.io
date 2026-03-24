@@ -1,26 +1,25 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script>
+// busuanzi uses site_pv container to toggle visibility; we use our own container
+var _busuanzi_callback = function() {
+    var el = document.getElementById('site-stats');
+    if (el) el.style.display = '';
+};
+// poll for busuanzi to fill in values
+(function check() {
+    var pv = document.getElementById('busuanzi_value_site_pv');
+    if (pv && pv.textContent) { _busuanzi_callback(); return; }
+    setTimeout(check, 200);
+})();
+</script>
 <style>
-.site-stats {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 6px;
-    margin-top: 10px;
-    font-size: 1rem;
+#site-stats {
+    padding: 0 var(--menu-padding);
+    list-style: none;
+}
+.site-stats-text {
+    font-size: 0.9rem;
     color: var(--body-text-color);
-    opacity: 0.6;
-}
-.site-stats-item {
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
-}
-.site-stats-item .icon {
-    width: 18px;
-    height: 18px;
-    stroke-width: 1.8;
-}
-.site-stats-sep {
-    opacity: 0.4;
+    opacity: 0.5;
 }
 </style>
