@@ -68,6 +68,10 @@ defaultContentLanguage = 'zh-cn'
   [[params.widgets.page]]
     type = 'toc'
 
+[markup.tableOfContents]
+  startLevel = 1
+  endLevel = 4
+
 [markup.highlight]
   lineNos = true
   style = 'monokai'
