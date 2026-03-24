@@ -18,15 +18,15 @@ categories:
 
 随后进行拍照取证，以下是必要的照片
 
-| **<font style="color:rgb(255, 255, 255);">序号</font>** | **<font style="color:rgb(255, 255, 255);">拍什么</font>** | **<font style="color:rgb(255, 255, 255);">怎么拍</font>** | **<font style="color:rgb(255, 255, 255);">为什么重要</font>** |
+| **序号** | **拍什么** | **怎么拍** | **为什么重要** |
 | --- | --- | --- | --- |
-| <font style="color:rgb(0, 0, 0);">1</font> | **<font style="color:rgb(0, 0, 0);">全景照</font>** | <font style="color:rgb(0, 0, 0);">站远一点，把两车位置、道路标线、红绿灯都拍进去</font> | <font style="color:rgb(0, 0, 0);">还原事故现场</font> |
-| <font style="color:rgb(0, 0, 0);">2</font> | **<font style="color:rgb(0, 0, 0);">两车相对位置</font>** | <font style="color:rgb(0, 0, 0);">从多个角度（前后左右）拍两车的相对位置</font> | <font style="color:rgb(0, 0, 0);">判断责任</font> |
-| <font style="color:rgb(0, 0, 0);">3</font> | **<font style="color:rgb(0, 0, 0);">碰撞接触点</font>** | <font style="color:rgb(0, 0, 0);">近距离拍碰撞/剐蹭的具体位置</font> | <font style="color:rgb(0, 0, 0);">确定损伤范围</font> |
-| <font style="color:rgb(0, 0, 0);">4</font> | **<font style="color:rgb(0, 0, 0);">车辆损伤细节</font>** | <font style="color:rgb(0, 0, 0);">每一处损伤都单独拍特写</font> | <font style="color:rgb(0, 0, 0);">防止对方后续扩大损失</font> |
-| <font style="color:rgb(0, 0, 0);">5</font> | **<font style="color:rgb(0, 0, 0);">对方车牌</font>** | <font style="color:rgb(0, 0, 0);">正面清晰拍到车牌号</font> | <font style="color:rgb(0, 0, 0);">基本信息</font> |
-| <font style="color:rgb(0, 0, 0);">6</font> | **<font style="color:rgb(0, 0, 0);">道路环境</font>** | <font style="color:rgb(0, 0, 0);">信号灯状态、标线、路牌</font> | <font style="color:rgb(0, 0, 0);">辅助判责</font> |
-| <font style="color:rgb(0, 0, 0);">7</font> | **<font style="color:rgb(0, 0, 0);">对方驾驶证、行驶证</font>** | <font style="color:rgb(0, 0, 0);">拍照留存</font> | <font style="color:rgb(0, 0, 0);">防止对方提供虚假信息</font> |
+| 1 | **全景照** | 站远一点，把两车位置、道路标线、红绿灯都拍进去 | 还原事故现场 |
+| 2 | **两车相对位置** | 从多个角度（前后左右）拍两车的相对位置 | 判断责任 |
+| 3 | **碰撞接触点** | 近距离拍碰撞/剐蹭的具体位置 | 确定损伤范围 |
+| 4 | **车辆损伤细节** | 每一处损伤都单独拍特写 | 防止对方后续扩大损失 |
+| 5 | **对方车牌** | 正面清晰拍到车牌号 | 基本信息 |
+| 6 | **道路环境** | 信号灯状态、标线、路牌 | 辅助判责 |
+| 7 | **对方驾驶证、行驶证** | 拍照留存 | 防止对方提供虚假信息 |
 
 
 额外记录一些信息：对方姓名、电话、身份证号、车牌号、车型、颜色、保险公司名称、保单号、事故发生事件和地点、目击者联系方式
@@ -45,14 +45,14 @@ categories:
 
 ### 其他
 #### 需要注意的事情
-| **<font style="color:rgb(255, 255, 255);">场景</font>** | **<font style="color:rgb(255, 255, 255);">正确做法</font>** |
+| **场景** | **正确做法** |
 | --- | --- |
-| <font style="color:rgb(0, 0, 0);">对方说"私了给你XX钱"</font> | <font style="color:rgb(0, 0, 0);">评估损失，如果金额合理可以接受，但</font>**<font style="color:rgb(0, 0, 0);">必须签书面协议</font>**<font style="color:rgb(0, 0, 0);">，写明"双方再无其他纠纷"；签字写日期按手印</font> |
-| <font style="color:rgb(0, 0, 0);">对方说"我没带驾照"</font> | <font style="color:rgb(0, 0, 0);">拍对方身份证，报警处理（无证驾驶是违法行为）</font> |
-| <font style="color:rgb(0, 0, 0);">对方情绪激动骂人</font> | <font style="color:rgb(0, 0, 0);">不争吵，录像取证，等交警到场</font> |
-| <font style="color:rgb(0, 0, 0);">你觉得身体不适</font> | **<font style="color:rgb(0, 0, 0);">当场说明</font>**<font style="color:rgb(0, 0, 0);">，并在48小时内去医院检查，保留挂号单和诊断书</font> |
-| <font style="color:rgb(0, 0, 0);">对方要离开现场</font> | <font style="color:rgb(0, 0, 0);">拍下对方车牌+人脸，立刻报警（涉嫌逃逸）</font> |
-| <font style="color:rgb(0, 0, 0);">交警判你全责但你不服</font> | <font style="color:rgb(0, 0, 0);">先签字拿到认定书，3天内书面申请复核</font> |
+| 对方说"私了给你XX钱" | 评估损失，如果金额合理可以接受，但**必须签书面协议**，写明"双方再无其他纠纷"；签字写日期按手印 |
+| 对方说"我没带驾照" | 拍对方身份证，报警处理（无证驾驶是违法行为） |
+| 对方情绪激动骂人 | 不争吵，录像取证，等交警到场 |
+| 你觉得身体不适 | **当场说明**，并在48小时内去医院检查，保留挂号单和诊断书 |
+| 对方要离开现场 | 拍下对方车牌+人脸，立刻报警（涉嫌逃逸） |
+| 交警判你全责但你不服 | 先签字拿到认定书，3天内书面申请复核 |
 
 
 不要认错、不要在取证完成前挪车、不要签空白文件、不要垫付医疗费、不要在定损完成前修车
@@ -65,11 +65,11 @@ categories:
 #### 与网约车剐蹭的处理
 首先确认对方是否三证齐全
 
-| **<font style="color:rgb(255, 255, 255);">证件</font>** | **<font style="color:rgb(255, 255, 255);">说明</font>** |
+| **证件** | **说明** |
 | --- | --- |
-| **<font style="color:rgb(0, 0, 0);">网络预约出租汽车运输证</font>** | <font style="color:rgb(0, 0, 0);">车辆的营运许可（贴在车上或电子版）</font> |
-| **<font style="color:rgb(0, 0, 0);">网络预约出租汽车驾驶员证</font>** | <font style="color:rgb(0, 0, 0);">司机的从业资格</font> |
-| **<font style="color:rgb(0, 0, 0);">平台经营许可证</font>** | <font style="color:rgb(0, 0, 0);">平台的资质（这个你不用操心）</font> |
+| **网络预约出租汽车运输证** | 车辆的营运许可（贴在车上或电子版） |
+| **网络预约出租汽车驾驶员证** | 司机的从业资格 |
+| **平台经营许可证** | 平台的资质（这个你不用操心） |
 
 
 如果对方三证齐全，这种情况下一定要报警，正常取证，额外拍三证、对面的所属平台、车上是否有乘客；
@@ -118,19 +118,19 @@ categories:
         （这一步你就不用管了，是保险公司自己的事）
 ```
 
-| **<font style="color:rgb(255, 255, 255);">序号</font>** | **<font style="color:rgb(255, 255, 255);">材料</font>** | **<font style="color:rgb(255, 255, 255);">备注</font>** |
+| **序号** | **材料** | **备注** |
 | --- | --- | --- |
-| <font style="color:rgb(0, 0, 0);">1</font> | **<font style="color:rgb(0, 0, 0);">交通事故责任认定书</font>** | <font style="color:rgb(0, 0, 0);">交警出具，最核心的材料</font> |
-| <font style="color:rgb(0, 0, 0);">2</font> | **<font style="color:rgb(0, 0, 0);">你的驾驶证</font>** | <font style="color:rgb(0, 0, 0);">原件+复印件</font> |
-| <font style="color:rgb(0, 0, 0);">3</font> | **<font style="color:rgb(0, 0, 0);">你的行驶证</font>** | <font style="color:rgb(0, 0, 0);">原件+复印件</font> |
-| <font style="color:rgb(0, 0, 0);">4</font> | **<font style="color:rgb(0, 0, 0);">你的保险单</font>** | <font style="color:rgb(0, 0, 0);">电子保单也行</font> |
-| <font style="color:rgb(0, 0, 0);">5</font> | **<font style="color:rgb(0, 0, 0);">你的身份证</font>** | <font style="color:rgb(0, 0, 0);">原件+复印件</font> |
-| <font style="color:rgb(0, 0, 0);">6</font> | **<font style="color:rgb(0, 0, 0);">事故现场照片</font>** | <font style="color:rgb(0, 0, 0);">你之前拍的那些全景、细节照片</font> |
-| <font style="color:rgb(0, 0, 0);">7</font> | **<font style="color:rgb(0, 0, 0);">对方的信息</font>** | <font style="color:rgb(0, 0, 0);">车牌号、驾驶证照片、行驶证照片、对方保险信息</font> |
-| <font style="color:rgb(0, 0, 0);">8</font> | **<font style="color:rgb(0, 0, 0);">维修发票和清单</font>** | <font style="color:rgb(0, 0, 0);">如果已经修了的话</font> |
-| <font style="color:rgb(0, 0, 0);">9</font> | **<font style="color:rgb(0, 0, 0);">对方拒赔/无力赔偿的证据</font>** | <font style="color:rgb(0, 0, 0);">比如：对方保险公司的拒赔通知书、对方不接电话的通话记录、你催对方赔偿的聊天记录截图等</font> |
-| <font style="color:rgb(0, 0, 0);">10</font> | **<font style="color:rgb(0, 0, 0);">代位求偿申请书</font>** | <font style="color:rgb(0, 0, 0);">保险公司会给你模板，签字就行</font> |
-| <font style="color:rgb(0, 0, 0);">11</font> | **<font style="color:rgb(0, 0, 0);">权益转让书</font>** | <font style="color:rgb(0, 0, 0);">保险公司提供，表示你同意把追偿权转让给保险公司</font> |
+| 1 | **交通事故责任认定书** | 交警出具，最核心的材料 |
+| 2 | **你的驾驶证** | 原件+复印件 |
+| 3 | **你的行驶证** | 原件+复印件 |
+| 4 | **你的保险单** | 电子保单也行 |
+| 5 | **你的身份证** | 原件+复印件 |
+| 6 | **事故现场照片** | 你之前拍的那些全景、细节照片 |
+| 7 | **对方的信息** | 车牌号、驾驶证照片、行驶证照片、对方保险信息 |
+| 8 | **维修发票和清单** | 如果已经修了的话 |
+| 9 | **对方拒赔/无力赔偿的证据** | 比如：对方保险公司的拒赔通知书、对方不接电话的通话记录、你催对方赔偿的聊天记录截图等 |
+| 10 | **代位求偿申请书** | 保险公司会给你模板，签字就行 |
+| 11 | **权益转让书** | 保险公司提供，表示你同意把追偿权转让给保险公司 |
 
 
 
